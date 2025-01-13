@@ -63,5 +63,5 @@ Reduz o impacto ambiental ao evitar grandes reformas de última hora.
 
 ___________________________________________________________________________
 
-Você pode encontar o algoritmo do projeto [clicando aqui!😁](https://github.com/WalterGoncalves-filho/Projeto-Vis-o-Computacional/tree/2e4359a8c54b4ff288d9b6a846fcb5b2f828eb57/code)
+Você pode encontar o algoritmo do projeto [clicando aqui!😁](https://github.com/WalterGoncalves-filho/Projeto-Visao-Computacional/tree/2e4359a8c54b4ff288d9b6a846fcb5b2f828eb57/code)
 
