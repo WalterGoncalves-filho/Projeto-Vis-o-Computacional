@@ -63,5 +63,5 @@ Reduz o impacto ambiental ao evitar grandes reformas de última hora.
 
 ___________________________________________________________________________
 
-Você pode encontar o algoritmo do projeto [clicando aqui!😁](https://github.com/WalterGoncalves-filho/Projeto-Vis-o-Computacional/code/Detector_de_Rachaduras.py)
+Você pode encontar o algoritmo do projeto [clicando aqui!😁](https://github.com/WalterGoncalves-filho/Projeto-Vis-o-Computacional/blob/21ebf0278ed4341a72d3b414adacbd7a43fa7c0a/code/Detector_de_Rachaduras.py)
 
